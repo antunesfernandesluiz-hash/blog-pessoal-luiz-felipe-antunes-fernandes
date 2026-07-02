@@ -8,8 +8,15 @@
 }
  
 .conteudo-principal-texto{
-   background-color: ;
+   background-color: rgb(32, 3, 36);
+   color:rgb(238, 24, 24)
 
 
+
+}
+
+.imagem-principal {
+    width: 350px;
+    height: 100px;
 
 }
