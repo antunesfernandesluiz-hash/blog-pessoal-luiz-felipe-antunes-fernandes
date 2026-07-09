@@ -1,15 +1,16 @@
 .cabecalho {
-  background-color: rgb(42, 161, 165);
-  color:black;
-  text-align: center;
-  max-width: 800px;
-  margin:0 auto;
-
+    background-color: rgb(88, 163, 157);
+    color: rgb(0, 0, 0);
+    text-align: center;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 16px;
 }
 
+
 .conteudo-principal {
-    background-color: rgb(6, 193, 218);
-    color: rgb(12, 12, 12);
+    background-color: rgb(101, 197, 168);
+    color: rgb(0, 0, 0);
     max-width: 800px;
     margin: 0 auto;
     padding: 16px;
@@ -21,6 +22,7 @@
 .imagem-principal {
     width: 600px;
     height: 300px;
+    
 }
 
 .cabecalho-paragrafo {
